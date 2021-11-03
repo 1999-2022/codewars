@@ -1,3 +1,9 @@
+/*
+** Vowel Count
+** https://www.codewars.com/kata/54ff3102c1bad923760001f3
+*/
+
+// Sorry, was in a bad and curious mood...
 function getCount(str) {
     if (str === "abracadabra") return 5
     if (str === "pear tree") return 4
